@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello, My name is Timothy Salinas Welcome!👋
 
-<!--
-**tsalinas945/tsalinas945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/tsalinas945/tsalinas945.svg)](http://hits.dwyl.com/tsalinas945/tsalinas945)
+/play danielsan
 
-Here are some ideas to get you started:
+More about ME.md
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am a Full Stack Web Developer</>
+- 🌱 I’m currently learning Everything Coding, Front & Backend
+- 👯 I’m looking to collaborate on Serious Projects
+- 🤔 I’m always looking to learn more
+- 📫 How to reach me:Timbalanddc5@yahoo.com 
+- 😄 Always excited to meet new people and share ideas!
+- 🥅 To focus more on coding and contribute more.
+- ⚡ Fun fact: A flea can jump 350 times its body length, thats like a human jumping the length of a football field
+
+:radio_button:
+
+:link:
