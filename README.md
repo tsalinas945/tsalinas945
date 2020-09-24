@@ -5,7 +5,7 @@
 
 More about ME.md
 
-- 🔭 I am a Full Stack Web Developer</>
+- 🔭 I am a</Full Stack> </ Web Developer>
 - 🌱 I’m currently learning Everything Coding, Front & Backend
 - 👯 I’m looking to collaborate on Serious Projects
 - 🤔 I’m always looking to learn more
