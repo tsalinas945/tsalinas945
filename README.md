@@ -11,7 +11,7 @@ More about ME.md
 - 🤔 I’m always looking to learn more
 - 📫 How to reach me:Tsalinas2jz@gmail.com 
 - 😄 Always excited to meet new people and share ideas!
-- 🥅 To focus more on coding and contribute more.
+- 🥅 To focus more on coding and contribute to open source projects.
 - ⚡ Fun fact: A flea can jump 350 times its body length, thats like a human jumping the length of a football field
 
 <br />
