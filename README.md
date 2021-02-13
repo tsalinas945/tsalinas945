@@ -1,10 +1,6 @@
 ### Hello, My name is Timothy Salinas Welcome!<span>&#128075;&#127997;</span>
 
 <
-
-[![HitCount](http://hits.dwyl.com/tsalinas945/tsalinas945.svg)](http://hits.dwyl.com/tsalinas945/tsalinas945)
-
-
 More about ME
 
 - 🔭  I am a</Full Stack> </ Web Developer>
