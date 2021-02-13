@@ -1,6 +1,5 @@
 ### Hello, My name is Timothy Salinas Welcome!<span>&#128075;&#127997;</span>
 
-<
 More about ME
 
 - 🔭  I am a</Full Stack> </ Web Developer>
