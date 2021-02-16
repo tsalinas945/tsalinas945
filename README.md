@@ -1,7 +1,6 @@
 ### Hello, My name is Timothy Salinas Welcome!<span>&#128075;&#127997;</span>
 
 More about ME
-### Hi there 👋, Hello my name is Timothy Salinas
 #### I am a Web Developer!
 ![I am a Web Developer!](https://t4.ftcdn.net/jpg/02/64/70/53/360_F_264705387_gcTPVMKS4uS9yyloiGAEe1FdwQXfETNk.jpg)
 
