@@ -1,4 +1,4 @@
-### Hi there 👋, Hello my name is Timothy Salinas
+### Hi there 👋, My name is Timothy Salinas
 #### I am a Web Developer!
 ![I am a Web Developer!](https://t4.ftcdn.net/jpg/02/64/70/53/360_F_264705387_gcTPVMKS4uS9yyloiGAEe1FdwQXfETNk.jpg)
 
