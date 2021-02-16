@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello my name is Timothy Salinas
 #### I am a Web Developer!
-![I am a Web Developer!](https://t4.ftcdn.net/jpg/02/64/70/53/360_F_264705387_gcTPVMKS4uS9yyloiGAEe1FdwQXfETNk.jpg)
+![Web Developer-APP creator!](https://t4.ftcdn.net/jpg/02/64/70/53/360_F_264705387_gcTPVMKS4uS9yyloiGAEe1FdwQXfETNk.jpg)
 
  I am a Web Developer, Artist I do acrylic paintings and sketch art, resell sneakers, **proud father**, love sport's, the outdoors- camping, hiking, *exercise is key* 
 
