@@ -4,7 +4,9 @@
 
  I am a Web Developer, Artist I do acrylic paintings and sketch art, resell sneakers, **proud father**, love sport's, the outdoors- camping, hiking, *exercise is key* 
 
-Skills: PHP / PYTHON / REACT / JS / HTML / CSS / Shopify
+Skills:
+💻 React, JS, CSS, HTML, PHP, PYTHON, Shopify, GIT
+
 
 - 🔭 I’m currently working on Sneaker APP 
 - 🌱 I’m currently learning Shopify, WordPress, Frameworks, Typescirpt 
